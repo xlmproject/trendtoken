@@ -1,1 +1,63 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+
+[DOCUMENTATION]
+ORG_NAME="TrendToken"
+ORG_URL="https://trendtoken.pages.dev"
+ORG_DESCRIPTION="TrendToken presents digital asset projects and their public metadata on the Stellar network."
+ORG_GITHUB="xlmproject"
+
+[[CURRENCIES]]
+code="VELO"
+issuer="GDBRD472MGAI3AT6HCHZWGUAE3GKY56TE54OOUOBH5BX7TBUAEP2XCMC"
+name="VELO"
+desc="VELO is a digital asset concept focused on momentum, efficient digital experiences, and forward-looking blockchain innovation. Verify issuer details and on-chain supply before relying on asset claims."
+image="https://trendtoken.pages.dev/images/VELO.png"
+
+[[CURRENCIES]]
+code="SOLS"
+issuer="GDBRD472MGAI3AT6HCHZWGUAE3GKY56TE54OOUOBH5BX7TBUAEP2XCMC"
+name="SOLS"
+desc="SOLS is a digital asset concept representing connectivity, resilient digital infrastructure, and community-driven innovation on the Stellar network. Verify issuer details and on-chain supply before relying on asset claims."
+image="https://trendtoken.pages.dev/images/SOLS.png"
+
+[[CURRENCIES]]
+code="EGG"
+issuer="GDBRD472MGAI3AT6HCHZWGUAE3GKY56TE54OOUOBH5BX7TBUAEP2XCMC"
+name="EGG"
+desc="EGG is a digital asset concept built around creativity, new beginnings, and participation in an evolving digital economy. Verify issuer details and on-chain supply before relying on asset claims."
+image="https://trendtoken.pages.dev/images/EGG.png"
+
+[[CURRENCIES]]
+code="WATER"
+issuer="GDBRD472MGAI3AT6HCHZWGUAE3GKY56TE54OOUOBH5BX7TBUAEP2XCMC"
+name="WATER"
+desc="WATER is a digital asset concept inspired by adaptability, continuity, and sustainable-minded digital innovation. This description does not imply an environmental certification or a verified real-world backing. Verify issuer details and on-chain supply before relying on asset claims."
+image="https://trendtoken.pages.dev/images/WATER.png"
+
+[[CURRENCIES]]
+code="ONDO"
+issuer="GDBRD472MGAI3AT6HCHZWGUAE3GKY56TE54OOUOBH5BX7TBUAEP2XCMC"
+name="ONDO"
+desc="ONDO is listed here as an asset code issued by the issuer shown in this file. This listing does not indicate affiliation with, endorsement by, or equivalence to any other project using the ONDO name. Verify the issuer address carefully before transacting."
+image="https://trendtoken.pages.dev/images/ONDO.png"
+
+[[CURRENCIES]]
+code="SECRET"
+issuer="GDBRD472MGAI3AT6HCHZWGUAE3GKY56TE54OOUOBH5BX7TBUAEP2XCMC"
+name="SECRET"
+desc="SECRET is a digital asset concept associated with privacy-minded design, discretion, and user-focused digital experiences. The name alone does not guarantee confidentiality or privacy features. Verify issuer details and on-chain supply before relying on asset claims."
+image="https://trendtoken.pages.dev/images/SECRET.png"
+
+[[CURRENCIES]]
+code="GOLD"
+issuer="GDBRD472MGAI3AT6HCHZWGUAE3GKY56TE54OOUOBH5BX7TBUAEP2XCMC"
+name="GOLD"
+desc="GOLD is a digital asset concept inspired by value, durability, and premium digital identity. The name does not mean the asset is backed by physical gold or redeemable for gold. Verify issuer details and any backing claims independently."
+image="https://trendtoken.pages.dev/images/GOLD.png"
+
+[[CURRENCIES]]
+code="XMONEY"
+issuer="GDBRD472MGAI3AT6HCHZWGUAE3GKY56TE54OOUOBH5BX7TBUAEP2XCMC"
+name="XMONEY"
+desc="XMONEY is a digital asset concept focused on modern digital value exchange, accessibility, and financial technology innovation. This description does not imply a payment license or guaranteed utility. Verify issuer details and on-chain supply before relying on asset claims."
+image="https://trendtoken.pages.dev/images/XMONEY.png"
